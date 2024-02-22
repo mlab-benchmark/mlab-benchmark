@@ -83,7 +83,7 @@ Once these two files have been prepared, a submission can be made via a pull req
 
 
 ## List of Publications
-- Koch, A., Dax, G., Petry, M., Gomez, H., Raoofy, A., Saroliya, U., Ghiglione, M., Furano, G., Werner, M., Trinitis, C., & Langer, M. (2023). Reference Implementations for Machine Learning Application Benchmark. 2023 European Data Handling & Data Processing Conference (EDHPC), Juan Les Pins, France, 2023, pp. 1-3, doi: 10.23919/EDHPC59100.2023.10396582.
+- Koch, A., Dax, G., Petry, M., Gomez, H., Raoofy, A., Saroliya, U., Ghiglione, M., Furano, G., Werner, M., Trinitis, C., & Langer, M. (2023). Reference Implementations for Machine Learning Application Benchmark. 2023 European Data Handling & Data Processing Conference (EDHPC), Juan Les Pins, France, 2023, pp. 1-3, https://doi.org/10.23919/EDHPC59100.2023.10396582
 - Koch, A., Petry, M., Ghiglione, M., Raoofy, A., Dax, G., Furano, G., Werner, M., Trinitis, C., & Langer, M. (2023). Machine Learning Application Benchmark. 20th ACM International Conference on Computing Frontiers (CF ’23), May 9–11, 2023, Bologna, Italy. https://doi.org/10.1145/3587135.3592769
 - Dax, G., Nagarajan, S., Li, H., & Werner, M. (2022). Compression Supports Spatial Deep Learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS). https://doi.org/10.1109/JSTARS.2022.3226563
 - Dax, G., & Werner, M. (2022). The Role of Compression in Spatial Computing. PhD Colloquium of the Deutsche Geodätische Kommission, Section on Geoinformatics.
