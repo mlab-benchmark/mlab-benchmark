@@ -13,7 +13,7 @@ The Machine Learning Application Benchmark (MLAB) has the aim of combining aspec
 Thereby, "open" and "closed" refer to the option of using different hardware platforms or ML models. Note that the submission category "Closed Hardware & Model" aims to compare different pre- and postprocessing techniques and hardware components.
 
 ------
-### [Click here to open the leaderboard]()
+### [Click here to open the leaderboard](leaderboard.md)
 
 
 <!-- ### [Click here to open dataset overview](https://www.bgd.ed.tum.de/en/projects/mlab/modeldb.html) -->
