@@ -14,9 +14,6 @@ Thereby, "open" and "closed" refer to the option of using different hardware pla
 
 ------
 ### [Click here to open the leaderboard](leaderboard.md)
-
-
-<!-- ### [Click here to open dataset overview](https://www.bgd.ed.tum.de/en/projects/mlab/modeldb.html) -->
 ------
 ## Applications
 
@@ -30,6 +27,10 @@ Thereby, "open" and "closed" refer to the option of using different hardware pla
 | F |  Image Object Detection  |  [Airbus Aircraft Detection](https://www.kaggle.com/datasets/airbusgeo/airbus-aircrafts-sample-dataset)  |  Yolov4  | Xilinx Zynq Ultrascale+ ZCU102 |
 | G |  Image Segmentation  |  [Aibus Ship Detection](https://www.kaggle.com/competitions/airbus-ship-detection)  |  ResNet 50  | Xilinx Zynq Ultrascale+ ZCU102 |
 
+------
+### [Click here to open the model database](https://github.com/mlab-benchmark/modeldb)
+### [Click here to open the reference implementations](https://github.com/mlab-benchmark/reference_implementations)
+------
 
 ## Submission Process
 You are welcome to participate in the benchmark by submitting your results on any of the applications. For a new submission, two files need to be prepared:
@@ -78,8 +79,7 @@ Once these two files have been prepared, a submission can be made via a pull req
 1. Clone directory and create new branch with \<unique name>
 2. Create folder in /submissions/\<task>/\<submission category>/\<unique name>
 3. Add configuration.json and metrics.json
-4. Copy the newly created folder to /website/_data/submissions/\<task>/\<submission category>/\<unique name>
-5. File a pull request to merge your branch into the main branch
+4. File a pull request to merge your branch into the main branch
 
 
 ## List of Publications
